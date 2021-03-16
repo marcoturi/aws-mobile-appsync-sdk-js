@@ -18,7 +18,7 @@ import { SKIP_RETRY_KEY } from "./link/retry-link";
 import { DocumentNode, print, OperationDefinitionNode, FieldNode, ExecutionResult } from "graphql";
 import { getOpTypeFromOperationName, CacheOperationTypes, getUpdater, QueryWithVariables } from "./helpers/offline";
 import { boundSaveSnapshot, replaceUsingMap, EnqueuedMutationEffect, offlineEffectConfig as mutationsConfig } from "./link/offline-link";
-import { CONTROL_EVENTS_KEY } from "aws-appsync-subscription-link";
+import { CONTROL_EVENTS_KEY } from "@marcoturi/aws-appsync-subscription-link";
 
 const logger = rootLogger.extend('deltasync');
 
@@ -162,7 +162,7 @@ const effect = async <TCache extends NormalizedCacheObject>(
     }, observer, callback = () => { } } = effect;
 
     if (!observer || typeof observer.next !== 'function' || observer.closed) {
-        // If we don't have an observer, we complete this effect (this means the app was closed/opened and a completely 
+        // If we don't have an observer, we complete this effect (this means the app was closed/opened and a completely
         // new deltaSync will happen)
         return;
     }

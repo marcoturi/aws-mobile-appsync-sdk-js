@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.8"></a>
+## [3.1.8](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync-subscription-link@3.1.7...@marcoturi/aws-appsync-subscription-link@3.1.8) (2021-03-16)
+
+
+
+
+**Note:** Version bump only for package @marcoturi/aws-appsync-subscription-link
+
 <a name="3.1.7"></a>
 ## [3.1.7](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync-subscription-link@3.1.6...@marcoturi/aws-appsync-subscription-link@3.1.7) (2021-03-16)
 

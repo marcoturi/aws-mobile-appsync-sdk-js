@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.6"></a>
+## [3.1.6](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync-auth-link@3.1.5...@marcoturi/aws-appsync-auth-link@3.1.6) (2021-03-16)
+
+
+
+
+**Note:** Version bump only for package @marcoturi/aws-appsync-auth-link
+
 <a name="3.1.5"></a>
 ## [3.1.5](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync-auth-link@3.1.4...@marcoturi/aws-appsync-auth-link@3.1.5) (2021-03-16)
 

@@ -5,5 +5,17 @@
   ],
   "version": "independent",
   "npmClient": "yarn",
-  "useWorkspaces": true
+
+  "npmClientArgs": [
+    "--production",
+    "--no-optional"
+  ],
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "allowBranch": [
+        "master"
+      ]
+    }
+  }
 }

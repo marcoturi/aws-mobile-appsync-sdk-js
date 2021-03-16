@@ -1,7 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "push": "lerna publish --conventional-commits",
+    "prepare": "yarn clean && lerna run prepare --sort",
+    "clean": "rimraf packages/**/lib"
   },
   "workspaces": [
     "packages/*"

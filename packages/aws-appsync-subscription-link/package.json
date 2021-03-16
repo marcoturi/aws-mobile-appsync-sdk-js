@@ -1,6 +1,6 @@
 {
   "name": "@marcoturi/aws-appsync-subscription-link",
-  "version": "3.1.5",
+  "version": "3.1.6",
   "main": "lib/index.js",
   "license": "Apache-2.0",
   "description": "AWS Mobile AppSync SDK for JavaScript",
@@ -23,6 +23,8 @@
     "test-watch": "jest --watch"
   },
   "dependencies": {
+    "@aws-crypto/sha256-universal": "^1.1.0",
+    "@aws-sdk/signature-v4": "^3.6.1",
     "@marcoturi/aws-appsync-auth-link": "*",
     "apollo-utilities": "^1.3.4",
     "debug": "2.6.9",

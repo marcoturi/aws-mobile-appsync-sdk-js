@@ -4,14 +4,15 @@
   "main": "lib/index.js",
   "license": "Apache-2.0",
   "description": "AWS Mobile AppSync SDK for JavaScript",
+  "private": false,
   "author": {
-    "name": "Amazon Web Services ",
+    "name": "Amazon Web Services",
     "url": "https://aws.amazon.com/"
   },
-  "homepage": "https://github.com/awslabs/aws-mobile-appsync-sdk-js.git",
+  "homepage": "https://github.com/marcoturi/aws-mobile-appsync-sdk-js.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awslabs/aws-mobile-appsync-sdk-js.git"
+    "url": "https://github.com/marcoturi/aws-mobile-appsync-sdk-js.git"
   },
   "scripts": {
     "prepare": "tsc",
@@ -36,9 +37,5 @@
     "setimmediate": "^1.0.5",
     "url": "^0.11.0",
     "uuid": "3.x"
-  },
-  "peerDependencies": {
-    "@react-native-community/async-storage": "^1.11.0",
-    "@react-native-community/netinfo": "^5.0.0"
   }
 }

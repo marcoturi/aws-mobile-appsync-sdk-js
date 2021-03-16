@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.7"></a>
+## [5.0.7](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync@5.0.6...@marcoturi/aws-appsync@5.0.7) (2021-03-16)
+
+
+
+
+**Note:** Version bump only for package @marcoturi/aws-appsync
+
 <a name="5.0.6"></a>
 ## [5.0.6](https://github.com/marcoturi/aws-mobile-appsync-sdk-js/compare/@marcoturi/aws-appsync@5.0.5...@marcoturi/aws-appsync@5.0.6) (2021-03-16)
 

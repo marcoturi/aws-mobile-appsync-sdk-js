@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.1.0"></a>
+# 3.1.0 (2021-03-16)
+
+
+### Bug Fixes
+
+* **aws-appsync-subscription-link:** change relativ ([#564](https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/564)) ([f9d95a6](https://github.com/awslabs/aws-mobile-appsync-sdk-js/commit/f9d95a6))
+* Add apollo-utilities dependency to subscription link ([3eeb77e](https://github.com/awslabs/aws-mobile-appsync-sdk-js/commit/3eeb77e))
+
+
+### Features
+
+* exporting links ([#470](https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/470)) ([50185bb](https://github.com/awslabs/aws-mobile-appsync-sdk-js/commit/50185bb))
+* **aws-appsync-subscription-link:** add mock support for websocket subscriptions ([#548](https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/548)) ([bac8808](https://github.com/awslabs/aws-mobile-appsync-sdk-js/commit/bac8808))
+* **aws-appsync-subscription-link:** allow custom headers to be processed by a Subscription resolver's vtl ([#497](https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/497)) ([6851a36](https://github.com/awslabs/aws-mobile-appsync-sdk-js/commit/6851a36))
+
+
+
+
 <a name="3.0.6"></a>
 ## [3.0.6](https://github.com/awslabs/aws-mobile-appsync-sdk-js/compare/aws-appsync-subscription-link@3.0.5...aws-appsync-subscription-link@3.0.6) (2021-02-12)
 

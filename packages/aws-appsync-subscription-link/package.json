@@ -9,6 +9,9 @@
     "name": "Amazon Web Services",
     "url": "https://aws.amazon.com/"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/marcoturi/aws-mobile-appsync-sdk-js.git",
   "repository": {
     "type": "git",

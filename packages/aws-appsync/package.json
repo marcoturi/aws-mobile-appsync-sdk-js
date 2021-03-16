@@ -1,11 +1,11 @@
 {
   "name": "@marcoturi/aws-appsync",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "main": "lib/index.js",
   "license": "Apache-2.0",
   "description": "AWS Mobile AppSync SDK for JavaScript",
   "author": {
-    "name": "Amazon Web Services",
+    "name": "Amazon Web Services ",
     "url": "https://aws.amazon.com/"
   },
   "homepage": "https://github.com/awslabs/aws-mobile-appsync-sdk-js.git",
